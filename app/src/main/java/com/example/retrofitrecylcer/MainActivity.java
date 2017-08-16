@@ -23,6 +23,7 @@ public class MainActivity extends Activity {
     RecyclerView recyclerView;
     public static MainActivity mainActivity;
     Button button ;
+    int a ;
 
 
     @Override
