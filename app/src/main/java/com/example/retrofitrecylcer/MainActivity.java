@@ -26,6 +26,9 @@ public class MainActivity extends Activity {
     int a ;
 
 
+    // this is hte line i want to puh
+    int abc = 10 ;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
